@@ -1,0 +1,13 @@
+{
+  "name": "AI Week Playground",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+  },
+  "portsAttributes": {
+    "8000": {
+      "label": "Your creation",
+      "onAutoForward": "notify"
+    }
+  }
+}
