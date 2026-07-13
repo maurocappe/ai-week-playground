@@ -25,6 +25,7 @@ Refresh the preview tab after each change.
 
 ## Good to know
 
+- **⚠️ No internal Anthos data** — this playground is for general experimentation only. Build things from public or made-up data; don't paste in or connect anything proprietary (Lodestone, Affinity, deal/portfolio data, internal docs, company MCPs).
 - **It's free** — personal GitHub accounts include ~60 hours/month of codespace time. Machines auto-sleep after 30 minutes idle.
 - **It's a sandbox** — this codespace can't touch anything else. Worst case, delete it at [github.com/codespaces](https://github.com/codespaces) and start fresh.
 - **Keep your work** — Source Control icon (left sidebar) → **Publish to GitHub** saves it as a repo on your account.
